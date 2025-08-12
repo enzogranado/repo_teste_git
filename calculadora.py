@@ -1,4 +1,4 @@
 def soma(a,b):
     return a+b
-
-print(soma(3,4))
+def reduzir(a,b):
+    return a-b
