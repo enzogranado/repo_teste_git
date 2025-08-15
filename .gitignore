@@ -1,0 +1,6 @@
+#arqueivos qu enão podem subir
+# Coloque o nome do arquivo 
+arquivoIgnorado
+
+# Pastas que devem ser ignoradas 
+# /nova_pasta 
